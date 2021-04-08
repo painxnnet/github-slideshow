@@ -1,3 +1,7 @@
+#www.moa.gov.cn
+#http://202.127.45.19/
+#pass:123456
+#user:admin
 timezone:    Europe/Berlin
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"

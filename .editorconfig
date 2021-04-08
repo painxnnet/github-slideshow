@@ -1,4 +1,8 @@
 # EditorConfig is awesome: http://EditorConfig.org
+#www.moa.gov.cn
+#http://202.127.45.19/
+#pass:123456
+#user:admin
 root = false
 
 [*]
